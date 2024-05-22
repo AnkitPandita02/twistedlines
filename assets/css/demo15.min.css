@@ -17653,7 +17653,7 @@ body {
 }
 
 .slide-1 {
-    left: 12%
+    left: 50%
 }
 
 .slide-1 h4:not(.text-price) {
@@ -17661,7 +17661,7 @@ body {
 }
 
 .slide-2 {
-    right: 12%
+    right: 50%
 }
 
 .slide-2 h4:not(.text-price) {
@@ -18617,4 +18617,15 @@ section.with-bg {
     .page-header {
         min-height: 200px
     }
+}
+
+
+
+
+
+.t01 {
+    color: #fff;
+}
+h4.m-b-3.appear-animate.t01.animated.splitRight.appear-animation-visible {
+    color: #fff;
 }
